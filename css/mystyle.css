@@ -1,0 +1,105 @@
+body{
+    background: #CCC;
+}
+
+#Header a:hover{
+    color: rgb(248, 245, 245);
+}
+
+#bg-img{
+    background: url('../images/mainimage.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+#about{
+    margin-top: -200px;
+}
+
+.media-body{
+    margin-left: 5px;
+}
+
+#about .fa{
+    color: rgb(255, 255, 255);
+}
+
+#aboutMe span{
+    padding: 10px 20px 10px 20px;
+}
+
+#aboutMe hr{
+    border-width: 3px;
+    margin-top: 6px;
+}
+
+
+#skills span{
+    padding: 10px 20px 10px 20px;
+}
+
+#skills hr{
+    border-width: 3px;
+    margin-top: 6px; 
+}
+
+#professionalSkills span{
+    padding: 10px 20px 10px 20px;
+}
+
+#professionalSkills hr{
+    border-width: 3px;
+    margin-top: 6px; 
+}
+
+#personalSkills span{
+    padding: 10px 20px 10px 20px;
+}
+
+#personalSkills hr{
+    border-width: 3px;
+    margin-top: 6px; 
+}
+
+
+#experience span{
+    padding: 10px 20px 10px 20px;
+}
+
+#experience hr{
+    border-width: 3px;
+    margin-top: 6px; 
+}
+
+#experience .card{
+    border-top:3px solid #CCC;
+}
+
+#qualification span{
+    padding: 10px 20px 10px 20px;
+}
+
+#qualification hr{
+    border-width: 3px;
+    margin-top: 6px; 
+}
+
+#otherExams span{
+    padding: 10px 20px 10px 20px;
+}
+
+#otherExams hr{
+    border-width: 3px;
+    margin-top: 6px; 
+}
+
+
+#contactMe span{
+    padding: 10px 20px 10px 20px;
+}
+
+#contactMe hr{
+    border-width: 3px;
+    margin-top: 6px; 
+}
